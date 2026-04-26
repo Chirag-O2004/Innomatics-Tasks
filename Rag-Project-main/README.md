@@ -180,12 +180,12 @@ Chat history memory
 
 ## 🎥 Demo Video
 
-👉 Watch Full Demo Here: https://drive.google.com/drive/folders/1mV1dEcCnXME8kCKfzgECmMC3luI1k5d1?usp=drive_link
+👉 Watch Full Demo Here: https://drive.google.com/drive/folders/1mV1dEcCnXME8kCKfzgECmMC3luI1k5cd1?usp=drive_link
 
 ---
 
 ## 🔗 LinkedIn Post
-https://www.linkedin.com/posts/tejasri-somarouthu-78aa83355_generativeai-artificialintelligence-rag-ugcPost-7453901211042480128-6qQC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFidKJoBRLvumfdgwfmIDItuHoJpdXkBZuI
+https://www.linkedin.com/posts/chirag-o-chirag-09c072004_generativeai-artificialintelligence-rag-ugcPost-7453901211042480128-6qQC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFidKJoBRLvumfdgwfmIDItuHoJpdXkBZuI
 
 ---
 
@@ -207,7 +207,7 @@ It provided hands-on experience in building real-world AI systems using RAG arch
 
 ---
 ## 👨‍💻Author 
-**Tejasri - IN226103402(Gen-AI intern)**
+**Chirag O - IN126022302(Gen-AI intern)**
 
 
   
